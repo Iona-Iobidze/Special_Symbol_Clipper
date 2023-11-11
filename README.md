@@ -11,10 +11,6 @@ This bash script allows you to easily copy special symbols and Greek letters to 
 
 Simply run the script in your terminal. A dialog box will appear displaying a list of keywords. Select the keyword for the symbol you want to copy, and the corresponding symbol will be copied to your clipboard.
 
-## Customizing the Script
-
-The script is extremely customizable and can be upgraded easily with almost no code knowledge.
-
 ## Shortcut
 
 For quick and easy use of this script, it is suggested to link this script to a keyboard shortcut. This will allow you to run the script with just a key press, making it even more convenient to use.
